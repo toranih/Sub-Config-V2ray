@@ -1,5 +1,5 @@
 
-<h1 id="v2ray-collector" align="center">collector | FNET00™</h1>
+<h1 id="v2ray-collector" align="center">🎯 collector | FNET00™ 🤍</h1>
 <p align="center">
   <a href="https://t.me/FNET00">
     <img alt="Static Badge" src="https://img.shields.io/badge/Telegram_channel-%40FNET00-darkblue?style=flat&logo=telegram%20">
@@ -11,40 +11,40 @@
   <img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/t/FNET00Bot/FNET00bot">
 </p>
 <p align="center">
-  <b>This project is intended for educational purposes only. Any other use of it, including commercial, personal, or non-educational use, is not accepted!</b>
+  <b>This project is only intended to solve the problem of filtering and connecting to the free internet.  Any other commercial, sales and advertising use is not acceptable!</b>
 </p>
-<p align="center">V2Hub is a script that can be used to aggregate and merge multiple subscription links for V2Ray, Trojan, Shadowsocks, and other protocols. The script can process both plain text and base64-encoded subscription links.</p>
-<h2 id="instructions-usage">Instructions &amp; Usage</h2>
-<p>Just import the following subscription link into the corresponding client. Use a client that at least support ss + vless + vmess + trojan.</p>
+<p align="center">COLLECTOR FNET00 is a project that can be used to collect and merge multiple subscription links for V2Ray, Trojan, Shadowsocks and other protocols.  This project can process both plain text and base64 encoded subscription links.</p>
+<h2 id="instructions-usage">Instructions &amp; Usage &amp; Subscription link </h2>
+<p>Just import the following subscription link into the corresponding client. Use a client that at least support ss + vless + vmess + Trojan + Fragment.</p>
 <table>
   <thead>
     <tr>
-      <th>CONFIG TYPE</th>
+      <th>CONFIG TYPE </th>
       <th>NORMAL SUBSCRIPTION</th>
       <th>BASE64 SUBSCRIPTION</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Merged</td>
+      <td>Mix (Main subscription link) </td>
       <td>
-        <a href="https://raw.githubusercontent.com/yebekhe/V2Hub/main/merged">NORMAL SUBSCRIPTION</a>
+        <a href="https://raw.githubusercontent.com/FNET00bot/FNET00/Config/Main">NORMAL SUBSCRIPTION</a>
       </td>
       <td>
-        <a href="https://raw.githubusercontent.com/yebekhe/V2Hub/main/merged_base64">BASE64 SUBSCRIPTION</a>
+        <a href="https://raw.githubusercontent.com/FNET00bot/FNET00/Config/Base64">BASE64 SUBSCRIPTION</a>
       </td>
     </tr>
     <tr>
-      <td>VMESS</td>
+      <td>Shadowsocks Extracts</td>
       <td>
-        <a href="https://raw.githubusercontent.com/yebekhe/V2Hub/main/Split/Normal/vmess">NORMAL SUBSCRIPTION</a>
+        <a href="https://raw.githubusercontent.com/FNET00bot/FNET00/Config/Shadowrocket/Normal">NORMAL SUBSCRIPTION</a>
       </td>
       <td>
-        <a href="https://raw.githubusercontent.com/yebekhe/V2Hub/main/Split/Base64/vmess">BASE64 SUBSCRIPTION</a>
+        <a href="https://raw.githubusercontent.com/FNET00bot/FNET00/Config/Shadowrocket/Base64">BASE64 SUBSCRIPTION</a>
       </td>
       </tr>
     <tr>
-      <td>VLESS</td>
+      <td>Donated configs</td>
       <td>
         <a href="https://raw.githubusercontent.com/yebekhe/V2Hub/main/Split/Normal/vless">NORMAL SUBSCRIPTION</a>
       </td>
@@ -83,7 +83,7 @@
 </table>
 <h2 id="manual-subs-conversion">Manual Subs Conversion</h2>
 <ul>
-  <li>If your client does not support the formats that provided here use below services to convert them to your client format (like surfboard) <blockquote>
+  <li>If your application does not support the formats provided here, use the services below to convert them to your application's format (such as surfboard).<blockquote>
       <p>Services for online sub conversion:</p>
     </blockquote>
   </li>
@@ -99,20 +99,10 @@
     </p>
   </li>
   <li>
-    <p>
-      <strong>If you don&#39;t like the groups and rules that are already set, you can simply use bianyuan API like this (ONLY FOR BASE64 SUBSCRIPTION)::</strong>
-    </p>
-    <blockquote>
-      <p>don&#39;t use this API for your personal subs! Pls run the subconverter locally ``` <a href="https://pub-api-1.bianyuan.xyz/sub?target=(OutputFormat)&amp;url=(SubUrl)&amp;insert=false">https://pub-api-1.bianyuan.xyz/sub?target=(OutputFormat)&amp;url=(SubUrl)&amp;insert=false</a>
-      </p>
-    </blockquote>
-  </li>
-</ul>
-<p>For Example: (OutputFormat) = clash (SubUrl) = <a href="https://raw.githubusercontent.com/yebekhe/V2Hub/main/merged_base64">https://raw.githubusercontent.com/yebekhe/V2Hub/main/merged_base64</a>
-</p>
+
 <p>
-  <a href="https://pub-api-1.bianyuan.xyz/sub?target=clash&url=https://raw.githubusercontent.com/yebekhe/V2Hub/main/merged_base64&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_Mini.ini&emoji=true&list=false&tfo=false&scv=false&fdn=false&sort=false&new_name=true">https://pub-api-1.bianyuan.xyz/sub?target=clash&url=https://raw.githubusercontent.com/yebekhe/V2Hub/main/merged_base64&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_Mini.ini&emoji=true&list=false&tfo=false&scv=false&fdn=false&sort=false&new_name=true</a>
+
 </p>
-<p>Now you can use the link above to import the subs into your client ```</p>
+
 <h2 id="license">License</h2>
 <p>This project is licensed under the MIT License - see the LICENSE file for details.</p>
