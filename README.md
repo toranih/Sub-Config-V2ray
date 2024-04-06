@@ -23,6 +23,7 @@
       <th>CONFIG TYPE </th>
       <th>NORMAL SUBSCRIPTION</th>
       <th>BASE64 SUBSCRIPTION</th>
+      <th>JSON SUBSCRIPTION</th>
     </tr>
   </thead>
   <tbody>
@@ -47,42 +48,45 @@
     <tr>
       <td>Donated configs</td>
       <td>
-        <a href="https://raw.githubusercontent.com/yebekhe/V2Hub/main/Split/Normal/vless">NORMAL SUBSCRIPTION</a>
+        <a href="https://raw.githubusercontent.com/FNET00bot/FNET00/Config/Donate/Normal">NORMAL SUBSCRIPTION</a>
       </td>
       <td>
-        <a href="https://raw.githubusercontent.com/yebekhe/V2Hub/main/Split/Base64/vless">BASE64 SUBSCRIPTION</a>
-      </td>
-      </tr>
-    <tr>
-      <td>REALITY</td>
-      <td>
-        <a href="https://raw.githubusercontent.com/yebekhe/V2Hub/main/Split/Normal/reality">NORMAL SUBSCRIPTION</a>
+        <a href="https://raw.githubusercontent.com/FNET00bot/FNET00/Config/Donate/base64">BASE64 SUBSCRIPTION</a>
       </td>
       <td>
-        <a href="https://raw.githubusercontent.com/yebekhe/V2Hub/main/Split/Base64/reality">BASE64 SUBSCRIPTION</a>
+        <a href="https://raw.githubusercontent.com/FNET00bot/FNET00/Config/Donate/Json">JSON SUBSCRIPTION</a>
       </td>
       </tr>
     <tr>
-      <td>TROJAN</td>
+      <td>Raw configs</td>
       <td>
-        <a href="https://raw.githubusercontent.com/yebekhe/V2Hub/main/Split/Normal/trojan">NORMAL SUBSCRIPTION</a>
+        <a href="https://raw.githubusercontent.com/FNET00bot/FNET00/Config/Normal/Normal">NORMAL SUBSCRIPTION</a>
       </td>
       <td>
-        <a href="https://raw.githubusercontent.com/yebekhe/V2Hub/main/Split/Base64/trojan">BASE64 SUBSCRIPTION</a>
+        <a href="https://raw.githubusercontent.com/FNET00bot/FNET00/Config/Normal/Base64">BASE64 SUBSCRIPTION</a>
       </td>
       </tr>
     <tr>
-      <td>ShadowSocks</td>
+      <td>_</td>
       <td>
-        <a href="https://raw.githubusercontent.com/yebekhe/V2Hub/main/Split/Normal/shadowsocks">NORMAL SUBSCRIPTION</a>
+        <a href="#">NORMAL SUBSCRIPTION</a>
       </td>
       <td>
-        <a href="https://raw.githubusercontent.com/yebekhe/V2Hub/main/Split/Base64/shadowsocks">BASE64 SUBSCRIPTION</a>
+        <a href="#">BASE64 SUBSCRIPTION</a>
+      </td>
+      </tr>
+    <tr>
+      <td>_</td>
+      <td>
+        <a href="#">NORMAL SUBSCRIPTION</a>
+      </td>
+      <td>
+        <a href="#">BASE64 SUBSCRIPTION</a>
       </td>
       </tr>
   </tbody>
 </table>
-<h2 id="manual-subs-conversion">Manual Subs Conversion</h2>
+<h2 id="manual-subs -conversion">Manual Subs Conversion</h2>
 <ul>
   <li>If your application does not support the formats provided here, use the services below to convert them to your application's format (such as surfboard).<blockquote>
       <p>Services for online sub conversion:</p>
