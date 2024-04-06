@@ -100,9 +100,32 @@
   </li>
   <li>
 
-<p>
+# Donate:
+### ₹ Rial support:
 
-</p>
+#### https://daramet.com/FNET00
+
+### Currency support: 
+
+#### BTC: 
+```bc1qzyn3snspu4neh8et8yd8rf9se8vmrnfua5a04q```
+
+#### ETH: 
+```0x63AeA864381b9686b98F56b4156D2d415e37F0FB```
+
+#### TRON (TRX): 
+```TCtESpeuN4na3sLKwDB4o9rQWqy716WtpR```
+
+
+### USDT: 
+
+##### TRC20: 
+```TCtESpeuN4na3sLKwDB4o9rQWqy716WtpR```
+
+##### ERC20: 
+```0x63AeA864381b9686b98F56b4156D2d415e37F0FB```
+
+### Hoping for free internet for all Iranian people!  :) 🕊️✌️
 
 <h2 id="license">License</h2>
 <p>This project is licensed under the MIT License - see the LICENSE file for details.</p>
