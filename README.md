@@ -91,7 +91,7 @@ _🤖 ربات تلگرام : https://t.me/fnet00_bot_
 ##### ERC20: 
 ```0x63AeA864381b9686b98F56b4156D2d415e37F0FB```
 
-### Hoping for free internet for all Iranian people!  :) 🕊️✌️
+### Hoping for free internet 777::abcd:339c:651c:1a0:f8e2:7022for all Iranian people!  :) 🕊️✌️
 
 <h2 id="license">License</h2>
 <p>This project is licensed under the MIT License - see the LICENSE file for details.</p>
